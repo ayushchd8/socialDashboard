@@ -17,6 +17,8 @@ Note --> I haven't kept name field as editable as it is unique for authenticatio
 You can Upload and change image, edit email, phone number, description.
 Also can change or update the password.
 
+create superUser by typing: "python manage.py createsuperuser"
+
 Below attached the basic flow:
 
 ![CodeHash_Assignment_flow drawio](https://user-images.githubusercontent.com/65771970/222985277-5354865c-b891-4dcb-a154-38c36b3873cf.png)
